@@ -1,0 +1,2 @@
+# TackPad
+A general purpose Note Pad to accompanny writers and techies on the writing aspect of their journey, Tack pad has syncing funtionality which enable access of short written text across devices. There is also an avenue to save notes on thoughts and ideas.
